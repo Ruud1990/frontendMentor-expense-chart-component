@@ -1,0 +1,19 @@
+:root {
+    --clr-primary-soft: hsl(10, 79%, 65%);
+    --clr-primary-cyan: hsl(186, 34%, 60%);
+    --clr-neutral-darkBrown: hsl(25, 47%, 15%);
+    --clr-neutral-mediumBrown: hsl(28, 10%, 53%);
+    --clr-neutral-cream: hsl(27, 66%, 92%);
+    --clr-neutral-orange: hsl(33, 100%, 98%);
+    --fs-fontSize: 18px;
+
+
+
+} 
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
